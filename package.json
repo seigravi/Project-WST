@@ -1,0 +1,22 @@
+{
+  "name": "project-wst",
+  "version": "1.0.0",
+  "description": "Class project for WST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seigravi/Project-WST.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seigravi/Project-WST/issues"
+  },
+  "homepage": "https://github.com/seigravi/Project-WST#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.0"
+  }
+}
